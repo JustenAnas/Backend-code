@@ -1,0 +1,4 @@
+GET => server se data fetch karva ho tb use krte hai 
+POST => server pr data send krna from frontend to backend
+Patch => server pr data already hai aur us data ko update krna
+DELETE => serve pr data hai usko delete krna 
